@@ -4,4 +4,5 @@ func main() {
 	println("Hi from docker")
 	println("master")
 	println("master2")
+	println("master3")
 }
